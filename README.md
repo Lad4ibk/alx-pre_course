@@ -1,1 +1,1 @@
-This is the [link] (https://www.alxafrica.com "Alx's Website") to ALX website.
+This is the [link] (https://www.alxafrica.com) to ALX website.
